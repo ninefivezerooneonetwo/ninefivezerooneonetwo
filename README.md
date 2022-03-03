@@ -1,7 +1,7 @@
-### Hi there 👋
-# Hello I'm ✨JIYEON SEOK✨
+<!--### Hi there 👋 -->
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello I'm ✨JIYEON SEOK✨&fontSize=90)
 
-**ninefivezerooneonetwo/ninefivezerooneonetwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
