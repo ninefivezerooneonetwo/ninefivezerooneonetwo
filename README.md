@@ -1,8 +1,6 @@
 <!--### Hi there 👋 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello I'm ✨JIYEON SEOK✨&fontSize=90)
-
-
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JIYEONSEOK%20%20&height=200&fontSize=100)
+<h5>Hello I'm ✨JIYEON SEOK✨</h5>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
